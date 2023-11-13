@@ -1,6 +1,6 @@
 venv
-.exe
-.spec
+Calculosos.exe
+main.spec
 dist
 build
 .idea
